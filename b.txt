@@ -1,1 +1,1 @@
-mere tekst
+fixed issue 45
